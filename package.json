@@ -1,0 +1,2 @@
+{ "name": "dsh-memory", "version": "0.1.0", "description": "Cross-session memory: remember/recall/forget keyed to a workspace token — a later session, or a different machine, picks up where you left off.",
+  "peerDependencies": { "@deepseek-ai/dsh-mcp-client": "*" }, "license": "MIT" }
